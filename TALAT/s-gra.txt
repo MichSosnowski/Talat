@@ -1,0 +1,15 @@
+Tryb gry: gracz vs gracz
+
+Nick gracza: s
+Nick przeciwnika: g
+
+Kolor gracza: czerwony
+Kolor przeciwnika: niebieski
+
+Plansza1: *** sSc *** sTf *** *** *** dKc *** *** sTc *** *** dKf *** *** dSf sKc *** sSf *** mSc *** *** *** 
+Plansza2: *** *** mSn dKn dSn *** mKn *** *** *** *** *** *** *** *** *** *** *** *** *** mTc dTc dSc mKc *** 
+Plansza3: *** *** dTf *** *** mTf *** *** mKf *** dTn sKf *** sKn *** *** mTn *** *** sSn *** *** *** sTn *** 
+
+Ilosc punktow:
+s - 12 punktow
+g - 9 punktow

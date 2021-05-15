@@ -1,0 +1,15 @@
+Tryb gry: 1 vs 1 z komputerem
+
+Nick gracza: sosna
+Nick przeciwnika: komputer
+
+Kolor gracza: czerwony
+Kolor przeciwnika: niebieski
+
+Plansza1: *** *** *** dTf *** mKc *** *** *** dKc *** *** dSf sTf *** dTc *** dSc *** dKf *** mTc *** *** *** 
+Plansza2: *** sTc *** *** sKc *** mSc *** *** *** *** *** *** sSc *** sKn *** dTn dSn sSn *** dKn *** *** *** 
+Plansza3: mTf *** *** *** *** *** mTn *** sSf sKf *** *** mSf sTn *** mSn *** *** *** *** *** *** *** *** mKn 
+
+Ilosc punktow:
+sosna - 3 punktow
+komputer - 0 punktow

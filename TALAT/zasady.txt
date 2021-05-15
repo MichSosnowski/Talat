@@ -1,0 +1,45 @@
+Zasady gry:
+
+1. Kazdy z graczy ma do dyspozycji 9 wiez w swoim kolorze (czerwonym, niebieskim lub fioletowym): trzy male, trzy srednie i trzy wysokie, ale takze trzy trojkatne, trzy kwadratowe i trzy szesciokatne.
+
+2. Wszystkie plansze maja ksztalt kwadratow o wymiarach 5 x 5 pol.
+
+3. Na przeciwleglych koncach kazdej z plansz znajduja sie linie poczatkowe: na jednej planszy czerwona i niebieska, na drugiej czerwona i fioletowa, na trzeciej niebieska i fioletowa.
+
+4. Plansze uklada sie w trojkat tak, by przed kazdym graczem znalazly sie dwie plansze z liniami poczatkowymi w jego kolorze.
+
+5. Nastepnie gracze kolejno rozmieszczaja na swoich liniach startowych pionki, po jednym w kazdej kolejce, az do ich wyczerpania. Ustawienia raz postawionych wiez nie wolno juz zmieniac az do rozpoczecia gry.
+   Poniewaz pol startowych w jednym kolorze jest 10, jedno pozostanie puste.
+
+6. W wersji dla dwoch graczy zawodnicy najpierw na przemian umieszczaja na planszach po jednej z wiez nieobecnego gracza (uzywaja 8 sztuk, wiec 2 pola pozostana puste), a dopiero potem rozmieszczaja swoje wieze.
+
+7. Gre rozpoczyna najstarszy z graczy, a jesli rozgrywanych jest wiecej rund, rozpoczynajacym nastepna partie jest zwyciezca poprzedniej. W wariancie 2-osobowym gre rozpoczyna ten, kto ostatni umiescil na planszy
+   swoj dziewiaty pionek.
+
+8. W swojej turze gracz przestawia jeden pionek (wlasny lub neutralny) na sasiednie pole prosto lub po skosie w przod na jednej ze swoich plansz.
+
+9. Nie mozna przeskakiwac innych pionkow, ale mozna je zbic, gdy stoja na naszym polu docelowym albo obok naszego pionka z prawej lub lewej strony. Nie mozna wykonywac bic do tylu. Bicia nie sa obowiazkowe.
+   Nie mozna zbijac wlasnych pionkow.
+
+10. Pionek przeciwnika moze zostac zbity, jesli spelnione sa nastepujace warunki: 
+	1) wieza moze zbic tylko wieze o jeden poziom nizsza (wysoka wieza nie zbija ani niskiej ani wysokiej),
+	2) kiedy wieze maja te sama wysokosc, ta majaca wiecej bokow w podstawie zbija kazda, ktora ma ich mniej. Wieze tej samej wysokosci i ksztaltu nie stanowia zagrozenia.
+	3) zachodzi regula Dawida i Goliata: duza szesciokatna wieza moze zostac zbita przez mala trojkatna.
+
+11. Pionek zbijajacy zajmuje pole, na ktorym stala wieza zbita. Pionek zbity jest umieszczany poza plansza przed graczem, ktory dokonal jego przejecia.
+
+12. Pionek, ktory dotrze na pole linii poczatkowej przeciwnika, zostaje na nim do konca gry, za wyjatkiem sytuacji gdy wykonuje bicie w bok lub sam zostaje zbity. To znaczy, ze pionki stojace na linii startowej
+    danego gracza moga zostac zbite, jesli obok stanie wieza przeciwnika.
+
+13. Gra konczy sie, gdy dwie z trzech plansz zostana zamrozone, tzn. nie mozna juz na nich wykonac zadnego ruchu. Wowczas przystepuje sie do podliczania punktow.
+
+14. Za kazda zbita wieze przeciwnika zawodnik otrzymuje 5 punktow, a za kazda swoja wieze przeprowadzona na linie startowa przeciwnika - 3 punkty. Wygrywa gracz z najwieksza liczba punktow. Jesli dwoch lub trzech
+    graczy ma tyle samo punktow, zwycieza osoba, ktora zbila przeciwnikowi wyzsza wieze o wiekszej liczbie bokow.
+
+15. W wersji 2-osobowej zasady sa takie same przy czym w swojej kolejce gracz moze wykonac ruch wieza wlasna lub neutralna (tzn. moze przestawic pionek neutralny, zbic wieza neutralna wieze czerwona), albo zbic
+    swoja wieza wieze neutralna (nie moze nadal zbijac wlasnych wiez). Po wykonaniu bicia gracz ustawia zdobyte pionki przed soba. Za zbite wieze otrzymuje po 5 punktow (niezaleznie od ich koloru), a za wieze
+    wprowadzone na linie poczatkowe przeciwnika po 3 (niezaleznie od tego, czy sa to jego wlasne, czy neutralne pionki).
+
+Zrodlo: http://www.matematyka.wroc.pl/grystrategiczneilogiczne/talat
+
+Aby powrocic do menu, prosze wcisnac ENTER...

@@ -1,0 +1,9 @@
+Program jest cyfrowa wersja gry planszowej pt. "Talat".
+Autor programu: Michal Sosnowski
+
+Gra przeznaczona jest dla dwoch osob.
+Istnieje mozliwosc zagrania 1 vs 1 z komputerem.
+Domyslnie ustawiona jest mozliwosc gry dla dwoch osob.
+Jesli chcesz to zmienic, wybierz w menu Opcje i ustaw mozliwosc gry z komputerem.
+
+Aby rozpoczac, prosze wcisnac ENTER...
